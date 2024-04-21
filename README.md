@@ -94,9 +94,7 @@
   <!-- About Section -->
   <div class="w3-container w3-padding-32" id="about">
     <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">About</h3>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Excepteur sint
-      occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-      laboris nisi ut aliquip ex ea commodo consequat.
+    <p>Back in August 2002, the Azumanga Daioh anime aired its 20th episode on TV, which is a show that chronicles the daily life of six high school students and two of their teachers. In a particular scene in the episode, the character Ayumu Kasuga (Osaka) imagines herself just landing in the United States and seeing every American as a tiny version of her friend Chiyo Mihama saying repeatedly "Hello, hello, hello.".
     </p>
   </div>
 
