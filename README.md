@@ -9,7 +9,7 @@
 <body>
 
 <!-- Navbar (sit on top) -->
-<div class="w3-top">
+<div class="w3-top w3-center">
   <div class="w3-bar w3-white w3-wide w3-padding w3-card">
     <a href="#home" class="w3-bar-item w3-button"><b>YA</b> America</a>
     <!-- Float links to the right. Hide them on small screens -->
