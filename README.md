@@ -157,7 +157,7 @@
 
 <!-- Footer -->
 <footer class="w3-center w3-black w3-padding-16">
-  <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" title="Hi jhlsey" target="_blank" class="w3-hover-text-green">Hi jhlsey</a></p>
+  <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" title="Hi jhlsy" target="_blank" class="w3-hover-text-green">Hi jhlsy</a></p>
 </footer>
 
 </body>
