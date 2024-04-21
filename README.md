@@ -9,8 +9,8 @@
 <body>
 
 <!-- Navbar (sit on top) -->
-<div class="w3-top w3-center">
-  <div class="w3-bar w3-white w3-wide w3-padding w3-card" style="width: 100%;">
+<div class="w3-top w3-center" style="margin-top: 20px;">
+  <div class="w3-bar w3-white w3-wide w3-padding w3-card" style="width: 90%; margin: 0 auto;">
     <a href="#home" class="w3-bar-item w3-button"><b>YA</b> America</a>
     <!-- Float links to the right. Hide them on small screens -->
     <div class="w3-right w3-hide-small">
