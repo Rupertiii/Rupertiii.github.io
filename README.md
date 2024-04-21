@@ -10,7 +10,7 @@
 
 <!-- Navbar (sit on top) -->
 <div class="w3-top w3-center" style="margin-top: 20px;">
-  <div class="w3-bar w3-white w3-wide w3-padding w3-card" style="width: 90%; margin-left: -300px;">
+  <div class="w3-bar w3-white w3-wide w3-padding w3-card" style="width: 90%; margin-left: -500px;">
     <a href="#home" class="w3-bar-item w3-button"><b>YA</b> America</a>
     <!-- Float links to the right. Hide them on small screens -->
     <div class="w3-right w3-hide-small">
@@ -157,7 +157,7 @@
 
 <!-- Footer -->
 <footer class="w3-center w3-black w3-padding-16">
-  <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" title="jhlsy" target="_blank" class="w3-hover-text-green">jhlsy</a></p>
+  <p>Powered by <a href="https://www.facebook.com/robell.bernales" title="jhlsy" target="_blank" class="w3-hover-text-green">jhlsy</a></p>
 </footer>
 
 </body>
