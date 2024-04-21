@@ -1,0 +1,10 @@
+#navbar {
+  transition: top 0.3s; /* Add a smooth transition effect */
+  position: fixed;
+  width: 100%;
+  z-index: 1000; /* Ensure the navbar stays on top of other content */
+}
+
+#navbar.hidden {
+  top: -50px; /* Adjust this value to hide the navbar completely */
+}
